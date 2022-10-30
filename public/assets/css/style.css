@@ -380,6 +380,11 @@ img {
     color: #34baeb;
 }
 
+.d-flex {
+    display: flex;
+    justify-content: center;
+}
+
 .typed-cursor {
     font-weight: 300;
 }
